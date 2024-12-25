@@ -3,6 +3,7 @@
 int main() {
     int letter1 = 2; 
     int letter2 = 4; 
+    int sum;
     sum = letter1 + letter2;
     std::cout<<"Cумма:"<<sum<<std::endl;
     return 0;
