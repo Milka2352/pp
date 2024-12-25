@@ -5,6 +5,6 @@ int main() {
     int letter2 = 4; 
     int sum;
     sum = letter1 + letter2; // сумма
-    std::cout<<"Cумма:"<<sum<<std::endl;
+    std::cout<<"Cумма1:"<<sum<<std::endl;
     return 0;
 }
