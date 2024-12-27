@@ -2,7 +2,7 @@
 
 int main() {
     int letter1 = 2; 
-    int letter2 = 4; 
+    int letter2 = 4; //тест
     int sum; //определяем
     sum = letter1 + letter2; // сумма
     std::cout<<"Cумма1:"<<sum<<std::endl;
