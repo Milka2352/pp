@@ -2,9 +2,14 @@
 
 int main() {
     int letter1 = 2; 
+<<<<<<< HEAD
     int letter2 = 4; 
     int sum;
     int def;
+=======
+    int letter2 = 4; //тест
+    int sum; //определяем
+>>>>>>> a0aaa9abdc60f81ab60ee33f1e2c4ea95ffa30f4
     sum = letter1 + letter2; // сумма
     std::cout<<"Cумма1:"<<sum<<std::endl;
     def = letter1 - letter2; 
