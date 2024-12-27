@@ -4,7 +4,10 @@ int main() {
     int letter1 = 2; 
     int letter2 = 4; 
     int sum;
+    int def;
     sum = letter1 + letter2; // сумма
     std::cout<<"Cумма1:"<<sum<<std::endl;
+    def = letter1 - letter2; 
+    std::cout<<"Разность:"<<sum<<std::endl;
     return 0;
 }
